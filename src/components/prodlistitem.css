@@ -1,0 +1,12 @@
+#maindiv{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+}
+h1{
+    font-size:20px;
+}
+#maindiv img{
+    width:300px;
+    height:400px;
+}
